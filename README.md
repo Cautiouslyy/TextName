@@ -24,7 +24,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content=
     "width=device-width, initial-scale=1.0">
-  <title>Text Name</title>
 </head>
 <body>
   <div>
@@ -46,7 +45,7 @@
   }
 
   h2 {
-      font-size: 5em;
+      font-size: 30em;
       font-family: serif;
       color: transparent;
       text-align: center;

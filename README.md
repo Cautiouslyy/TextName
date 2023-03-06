@@ -17,15 +17,6 @@
 </head>
 <body>
 <div id="myDIV"></div>
-</body>
-</html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content=
-    "width=device-width, initial-scale=1.0">
-</head>
-<body>
   <div>
     <h2>Jeanroy Napoleon F Hualde</h2>
   </div>
@@ -38,11 +29,14 @@
   }
 
   div {
+      position: absolute;
+      top: 50%;
+      left: 50%;
       transform: translate(-50%, -50%);
   }
 
   h2 {
-      font-size: 100pt;
+      font-size: 30pt;
       font-family: serif;
       color: transparent;
       text-align: center;

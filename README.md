@@ -45,7 +45,7 @@
   }
 
   h2 {
-      font-size: 30em;
+      font-size: 100pt;
       font-family: serif;
       color: transparent;
       text-align: center;
